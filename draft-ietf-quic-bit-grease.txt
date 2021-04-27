@@ -4,12 +4,12 @@
 
 quic                                                          M. Thomson
 Internet-Draft                                                   Mozilla
-Intended status: Standards Track                        18 November 2020
-Expires: 22 May 2021
+Intended status: Standards Track                           27 April 2021
+Expires: 29 October 2021
 
 
                          Greasing the QUIC Bit
-                  draft-thomson-quic-bit-grease-latest
+                   draft-ietf-quic-bit-grease-latest
 
 Abstract
 
@@ -45,11 +45,11 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 22 May 2021.
+   This Internet-Draft will expire on 29 October 2021.
 
 Copyright Notice
 
-   Copyright (c) 2020 IETF Trust and the persons identified as the
+   Copyright (c) 2021 IETF Trust and the persons identified as the
    document authors.  All rights reserved.
 
    This document is subject to BCP 78 and the IETF Trust's Legal
@@ -217,18 +217,18 @@ Table of Contents
 
    [QUIC]     Iyengar, J. and M. Thomson, "QUIC: A UDP-Based Multiplexed
               and Secure Transport", Work in Progress, Internet-Draft,
-              draft-ietf-quic-transport-32, 20 October 2020,
-              <http://www.ietf.org/internet-drafts/draft-ietf-quic-
-              transport-32.txt>.
+              draft-ietf-quic-transport-34, 14 January 2021,
+              <https://datatracker.ietf.org/doc/html/draft-ietf-quic-
+              transport-34.txt>.
 
    [RFC2119]  Bradner, S., "Key words for use in RFCs to Indicate
               Requirement Levels", BCP 14, RFC 2119,
               DOI 10.17487/RFC2119, March 1997,
-              <https://www.rfc-editor.org/info/rfc2119>.
+              <https://datatracker.ietf.org/doc/html/rfc2119>.
 
    [RFC8174]  Leiba, B., "Ambiguity of Uppercase vs Lowercase in RFC
               2119 Key Words", BCP 14, RFC 8174, DOI 10.17487/RFC8174,
-              May 2017, <https://www.rfc-editor.org/info/rfc8174>.
+              May 2017, <https://datatracker.ietf.org/doc/html/rfc8174>.
 
 6.2.  Informative References
 
@@ -236,22 +236,24 @@ Table of Contents
               Updates for Secure Real-time Transport Protocol (SRTP)
               Extension for Datagram Transport Layer Security (DTLS)",
               RFC 7983, DOI 10.17487/RFC7983, September 2016,
-              <https://www.rfc-editor.org/info/rfc7983>.
+              <https://datatracker.ietf.org/doc/html/rfc7983>.
 
    [QUIC-INVARIANTS]
               Thomson, M., "Version-Independent Properties of QUIC",
               Work in Progress, Internet-Draft, draft-ietf-quic-
-              invariants-11, 24 September 2020, <http://www.ietf.org/
-              internet-drafts/draft-ietf-quic-invariants-11.txt>.
+              invariants-13, 14 January 2021,
+              <https://datatracker.ietf.org/doc/html/draft-ietf-quic-
+              invariants-13.txt>.
 
    [RFC8546]  Trammell, B. and M. Kuehlewind, "The Wire Image of a
               Network Protocol", RFC 8546, DOI 10.17487/RFC8546, April
-              2019, <https://www.rfc-editor.org/info/rfc8546>.
+              2019, <https://datatracker.ietf.org/doc/html/rfc8546>.
 
    [USE-IT]   Thomson, M., "Long-term Viability of Protocol Extension
               Mechanisms", Work in Progress, Internet-Draft, draft-iab-
-              use-it-or-lose-it-00, 7 August 2019, <http://www.ietf.org/
-              internet-drafts/draft-iab-use-it-or-lose-it-00.txt>.
+              use-it-or-lose-it-00, 7 August 2019,
+              <https://datatracker.ietf.org/doc/html/draft-iab-use-it-
+              or-lose-it-00.txt>.
 
 Acknowledgments
 

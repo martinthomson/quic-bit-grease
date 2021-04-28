@@ -4,8 +4,8 @@
 
 quic                                                          M. Thomson
 Internet-Draft                                                   Mozilla
-Intended status: Standards Track                           27 April 2021
-Expires: 29 October 2021
+Intended status: Standards Track                           28 April 2021
+Expires: 30 October 2021
 
 
                          Greasing the QUIC Bit
@@ -27,8 +27,8 @@ Discussion Venues
    (https://mailarchive.ietf.org/arch/browse/quic/).
 
    Source for this draft and an issue tracker can be found at
-   https://github.com/martinthomson/quic-bit-grease
-   (https://github.com/martinthomson/quic-bit-grease).
+   https://github.com/quicwg/quic-bit-grease (https://github.com/quicwg/
+   quic-bit-grease).
 
 Status of This Memo
 
@@ -45,7 +45,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 29 October 2021.
+   This Internet-Draft will expire on 30 October 2021.
 
 Copyright Notice
 
